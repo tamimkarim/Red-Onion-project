@@ -41,7 +41,7 @@ const Header = () => {
                     <Button> <ShoppingCartIcon /></Button>
                     <Button color="inherit">Login</Button>
                     <br/>
-                    <Button  variant="contained" color="secondary">Sign In</Button>
+                    <button className="btn primary-btn">SIGN IN</button>
                 </Toolbar>
             </div>
             {/* <div style={{
